@@ -27,4 +27,15 @@ blogRoutes.js (Routing for Blog Management)
 5. Database Setup
 Use MySQL to create tables:
 
+Running the Application
+Install Dependencies:
+bash
+Copy code
+npm install express mysql
+Start MySQL Server.
+Run the Backend Server:
+bash
+Copy code
+node backend/app.js
+Access Frontend: Open index.html in a browser for UI interaction.
 This code setup includes essential features and demonstrates how different parts of the application work together. You can record the final flow, showing how the courses appear dynamically, blog posts can be managed, and the dummy payment flow for the course purchase process.
