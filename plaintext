@@ -1,0 +1,21 @@
+SciAstra/
+├── frontend/
+│   ├── index.html
+│   ├── courses.html
+│   ├── blog.html
+│   ├── payment.html
+│   ├── css/
+│   │   └── styles.css
+│   ├── js/
+│   │   └── main.js
+├── backend/
+│   ├── app.js
+│   ├── routes/
+│   │   ├── blogRoutes.js
+│   │   ├── courseRoutes.js
+│   └── controllers/
+│       ├── blogController.js
+│       ├── courseController.js
+│   └── db/
+│       └── dbConfig.js
+└── README.md
