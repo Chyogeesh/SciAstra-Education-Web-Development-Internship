@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+}
+header {
+    background: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+}
+section {
+    padding: 2em;
+}
+#courses-container {
+    display: flex;
+    gap: 1em;
+    flex-wrap: wrap;
+}
+.course {
+    border: 1px solid #ddd;
+    padding: 1em;
+    border-radius: 8px;
+}
